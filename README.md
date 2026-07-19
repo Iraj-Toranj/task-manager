@@ -25,4 +25,4 @@ A simple desktop task manager built with Python and Tkinter.
 ## ▶️ How to Run
 
 
-python main.py
+python task_manager.py
