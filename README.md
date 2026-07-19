@@ -34,3 +34,7 @@ A simple desktop task manager built with Python and Tkinter.
 
 python main.py
 
+
+
+## 💡 Why I built this
+I built this project to practice Python GUI development and task management logic.
